@@ -1,4 +1,10 @@
 /* Slider */
+.slick-dots li button { 
+   font-size: 0; 
+   color: #ffff;
+    background-color: #ffff;
+} 
+
 .slick-slider
 {
     position: relative;
